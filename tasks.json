@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "task": "Exercise",
+        "done": true,
+        "deadline": "2026-06-28",
+        "priority": "high"
+    },
+    {
+        "id": 1,
+        "task": "Homework",
+        "done": false,
+        "deadline": "2026-06-29",
+        "priority": "medium"
+    },
+    {
+        "id": 2,
+        "task": "Grocery Shopping",
+        "done": false,
+        "deadline": "2026-06-30",
+        "priority": "low"
+    }
+]
